@@ -1,0 +1,1 @@
+implement multi-api request, page-slide, google map, truck load 
