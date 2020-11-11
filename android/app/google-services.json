@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779886659140",
+    "firebase_url": "https://nfl-freight.firebaseio.com",
+    "project_id": "nfl-freight",
+    "storage_bucket": "nfl-freight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779886659140:android:712ee6a277377183145e11",
+        "android_client_info": {
+          "package_name": "com.abogabal.ismael.nfl_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779886659140-60egm05dq5u9p8b7k6dk9hjv6sv2t91a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmX2tqAnajNTJxEZyxO7NLy8MSqJZs4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779886659140-60egm05dq5u9p8b7k6dk9hjv6sv2t91a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
